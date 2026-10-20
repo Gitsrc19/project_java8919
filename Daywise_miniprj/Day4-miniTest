@@ -1,0 +1,16 @@
+1.write a method add(int a,int b)
+static int add(inta,int b){
+return a+b;
+}
+public static void main(String args[]){
+int c=calculator.add(4,5)}
+2.write a method returning boolean for even number
+static int num(boolean even_number){
+if (num%==0){
+return even_number;}
+public static void main(string args[]){
+Scanner sc=new scanner(system.in);
+int num=sc.nextIn();
+System.out.ptintln("Enter the num"+num);
+
+
