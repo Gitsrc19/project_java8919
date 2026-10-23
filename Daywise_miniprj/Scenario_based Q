@@ -1,0 +1,15 @@
+Q1->A customer can log in only when the account is active AND username/password are valid. Which variables
+and operators will you use? What happens when one condition fails?
+Ans: Boolean acc_active,username,password variables used and by using && operator will check the condition.
+Q2->Withdrawal is valid only when KYC is verified, account is active, amount is positive, and amount is not greater
+    than available balance. Design the boolean expression and at least 5 combinations.
+ Ans: is_valid_ithdrawal=is_KYC_verified && acc_Active && amount>0 && amount<=ava_bal;
+ Q3->Free delivery is offered for cart amount &gt;= 999. Premium users get 10% discount, standard users get 5%, but
+     only when cart amount &gt;= 2000. Identify variables and conditions.
+ Ans: variables:
+ cart_amount;user_type(standard,premium);
+ if(cart_amount>=999 && user_type= premium ){
+ dicount=cart_amount*0.1}
+ else if(cart_amount>=2000; User_type=standard){
+ discount1=cart_amount*0.05} else
+no discount

@@ -1,0 +1,21 @@
+1. Write declaration + initialization for an employee salary of 55000.75.
+Ans: float emp_salary=55000.75f;
+2.Which variable type is shared across all objects of a class?
+ans:static variable is shared across all objects of a class.
+3.What is 25 % 4?
+Ans:1
+4.What is the output of int x=10; int y=++x;?
+Ans: int x=10; y=11;
+5.Write a condition for age between 18 and 60 inclusive.
+Ans boolean condition= age>=18 && age<=60
+6.Write a condition for a user who is either Admin OR Manager.
+Ans boolean output = admin|| manager
+7.Write a ternary expression that returns &quot;Pass&quot; when mark &gt;= 40 else &quot;Fail&quot;.
+ans int mark>=40;
+8.Write a Java expression checking statusCode == 200 AND time &lt; 2000.
+Ans: boolean out= status_code==200 && time>2000.
+9.What is the difference between 10/3 and 10.0/3?
+Ans: 3(data type int) and (float)3.33
+10.Create a program to check whether a cart amount qualifies for free delivery at 999 or more.
+int cart_amount=999;
+boolean output=(cart_amount>=999?"free delivery":"payable delivery");

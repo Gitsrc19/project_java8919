@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Daywise_miniprj/Daywise_miniprj.iml" filepath="$PROJECT_DIR$/Daywise_miniprj/Daywise_miniprj.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Daywise_miniprj/Daywise_modules/Daywise_modules.iml" filepath="$PROJECT_DIR$/Daywise_miniprj/Daywise_modules/Daywise_modules.iml" />
       <module fileurl="file://$PROJECT_DIR$/futureskillprj.iml" filepath="$PROJECT_DIR$/futureskillprj.iml" />
     </modules>
   </component>
