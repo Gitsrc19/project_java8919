@@ -6,6 +6,29 @@
       <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../selenium jar/selenium-java-4.52.0" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/../../selenium jar/selenium-java-4.52.0" />
+        </SOURCES>
+        <jarDirectory url="file://$MODULE_DIR$/../../selenium jar/selenium-java-4.52.0" recursive="false" />
+        <jarDirectory url="file://$MODULE_DIR$/../../selenium jar/selenium-java-4.52.0" recursive="false" type="SOURCES" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../selenium jar/selenium-java-4.52.0/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$MODULE_DIR$/../../selenium jar/selenium-java-4.52.0/lib" recursive="false" />
+      </library>
+    </orderEntry>
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>
